@@ -20,6 +20,7 @@ public class Sesion34CarreraED_Pilas {
         
         JOptionPane.showMessageDialog(null  , "Datos de la pila ordenada es: \n"+pilaCarrera);
         
+        JOptionPane.showConfirmDialog(null, "Autor ");
         
     }
     
